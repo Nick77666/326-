@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CISC326 Group 17
 
 You can use the [editor on GitHub](https://github.com/Nick77666/326-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
